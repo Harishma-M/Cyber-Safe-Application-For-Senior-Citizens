@@ -64,14 +64,15 @@ A responsive boutique shopping application featuring intuitive navigation, produ
 
 [Boutique Navigation](https://github.com/Harishma-M/Boutique-Navigation)
 
-##Solar-shield-for-E-vehicles
+
+## Solar-shield-for-E-vehicles
 
 A responsive boutique shopping application featuring intuitive navigation, product browsing, category filtering, and an elegant user interface for fashion retail.
 
 
 [Solar-shield-for-E-vehicles](https://github.com/Harishma-M/Solar-shield-for-E-vehicles)
 
-##Cyber-Safe-Application-For-Senior-Citizens
+## Cyber-Safe-Application-For-Senior-Citizens
 
 A senior-friendly mobile application that educates elderly users about cybersecurity, phishing scams, online fraud, password safety, and safe internet practices through an accessible and interactive interface.
 
